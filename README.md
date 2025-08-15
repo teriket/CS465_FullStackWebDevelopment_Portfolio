@@ -24,7 +24,7 @@ I refactored code to escalate the complexity of the project.  It is often easier
 
   Methods for request and retrieval necessitate various types of API testing of endpoints, in addition to the difficulties of testing with added layers of security. Explain your understanding of methods, endpoints, and security in a full stack application.
   
-Methods, endpoints, and security are necessary for passing data between a user and the servers.  Methods abstract away the implementation of specific piece of functionality, and make the function reusable elsewhere.  Endpoints enable URI requests to return data from the backend to the front end.  Securing the API is both a legal and ethical responsibility of the developer.
+Methods, endpoints, and security are necessary for passing data between a user and the servers.  Methods abstract away the implementation of specific piece of functionality, and make the function reusable elsewhere.  Endpoints enable URI requests to return data from the backend to the front end.  Securing the API is both a legal and ethical responsibility of the developer.  In the context of the full stack application, security is about who is allowed to do what with the API, such as posting new reviews, adding HTML to the website, and viewing account details.
 
 ## Reflection
 
